@@ -5,7 +5,9 @@
   </picture>
 </a>
 
-I design and build web products made for their users, from design to code: UI/UX design, audits, web applications, architecture and MCP integration.
+### I design and build web products made for their users
+
+From design to code: UI/UX design, audits, web applications, architecture and MCP integration.
 
 <p>
   <a href="https://wajrock.me"><img alt="Website" src="https://img.shields.io/badge/wajrock.me-1e3a5f?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
@@ -59,6 +61,9 @@ I design and build web products made for their users, from design to code: UI/UX
   </tr>
 </table>
 
----
+<br>
 
-<sub>Got a project? <a href="https://wajrock.me">Book a free call on wajrock.me</a>.</sub>
+<p align="center">
+  <b>Got a project?</b><br><br>
+  <a href="https://wajrock.me/en#contact"><img alt="Book a free call" src="https://img.shields.io/badge/Book_a_free_call-1e3a5f?style=for-the-badge&logo=googlecalendar&logoColor=white"></a>
+</p>
