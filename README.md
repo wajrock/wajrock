@@ -16,18 +16,48 @@ I design and build web products made for their users, from design to code: UI/UX
 
 ## Currently working on
 
-| Project | What I do |
-| --- | --- |
-| **[eDisplay](https://edisplay.it)** | Freelance mission on [turboSMTP](https://serversmtp.com) and [Emailchef](https://emailchef.com): evolving the products and their user experience |
-| **[Tabularis](https://github.com/TabularisDB/tabularis)** | Open source SQL client: I [rebuilt the website](https://github.com/TabularisDB/website) (UX/UI and front-end) and bring its visual identity to the app |
-| **[wajrock.me](https://wajrock.me)** | My portfolio, built with Astro |
+<table>
+  <tr>
+    <td width="72" align="center"><a href="https://edisplay.it"><img src="./assets/edisplay.png" width="44" alt="eDisplay"></a></td>
+    <td>
+      <b><a href="https://edisplay.it">eDisplay</a></b><br>
+      Freelance mission on <a href="https://serversmtp.com">turboSMTP</a> and <a href="https://emailchef.com">Emailchef</a>: evolving the products and their user experience.
+    </td>
+  </tr>
+  <tr>
+    <td width="72" align="center"><a href="https://github.com/TabularisDB"><img src="https://github.com/TabularisDB.png?size=96" width="44" alt="Tabularis"></a></td>
+    <td>
+      <b><a href="https://github.com/TabularisDB/tabularis">Tabularis</a></b><br>
+      Open source SQL client: I rebuilt the <a href="https://github.com/TabularisDB/website">website</a> (landing page, wiki, light theme, download page), designed the <a href="https://github.com/TabularisDB/tabularis/pull/935">new logo and icons</a> of the app and rebranded <a href="https://github.com/TabularisDB/explain-plan/pull/9">explain-plan</a>.
+    </td>
+  </tr>
+</table>
 
-## Open source
+## Open source contributions
 
-- **[Tabularis](https://github.com/TabularisDB)**: rebuilt the [website](https://github.com/TabularisDB/website) (landing page, wiki, light theme, download page), designed the [new logo and icons](https://github.com/TabularisDB/tabularis/pull/935) of the app, and rebranded [explain-plan](https://github.com/TabularisDB/explain-plan/pull/9)
-- **[ng-primitives](https://github.com/ng-primitives/ng-primitives)**: fixes for [dialogs](https://github.com/ng-primitives/ng-primitives/pull/924) and [switch keyboard activation](https://github.com/ng-primitives/ng-primitives/pull/927)
-- **[zard/ui](https://github.com/zard-ui/zardui)**: the [aspect-ratio component](https://github.com/zard-ui/zardui/pull/748)
-- **[spartan](https://github.com/spartan-ng/spartan)**: `ngSrc` support on the avatar, [kept in the reworked component](https://github.com/spartan-ng/spartan/pull/1821)
+<table>
+  <tr>
+    <td width="72" align="center"><a href="https://github.com/ng-primitives/ng-primitives"><img src="https://github.com/ng-primitives.png?size=96" width="44" alt="ng-primitives"></a></td>
+    <td>
+      <b><a href="https://github.com/ng-primitives/ng-primitives">ng-primitives</a></b><br>
+      Fixes for <a href="https://github.com/ng-primitives/ng-primitives/pull/924">dialogs</a> and <a href="https://github.com/ng-primitives/ng-primitives/pull/927">switch keyboard activation</a>.
+    </td>
+  </tr>
+  <tr>
+    <td width="72" align="center"><a href="https://github.com/zard-ui/zardui"><img src="https://github.com/zard-ui.png?size=96" width="44" alt="zard/ui"></a></td>
+    <td>
+      <b><a href="https://github.com/zard-ui/zardui">zard/ui</a></b><br>
+      The <a href="https://github.com/zard-ui/zardui/pull/748">aspect-ratio component</a>.
+    </td>
+  </tr>
+  <tr>
+    <td width="72" align="center"><a href="https://github.com/spartan-ng/spartan"><img src="https://github.com/spartan-ng.png?size=96" width="44" alt="spartan"></a></td>
+    <td>
+      <b><a href="https://github.com/spartan-ng/spartan">spartan</a></b><br>
+      <code>ngSrc</code> support on the avatar, <a href="https://github.com/spartan-ng/spartan/pull/1821">kept in the reworked component</a>.
+    </td>
+  </tr>
+</table>
 
 ---
 
